@@ -1,0 +1,8 @@
+{
+  "name": "rest-aad-token-authorizer",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "jose": "^5.2.4"
+  }
+}
